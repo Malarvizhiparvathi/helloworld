@@ -1,3 +1,4 @@
 a=raw_input("")
-print(a * 3)
+n=int(input("")
+print(a * n)
 
