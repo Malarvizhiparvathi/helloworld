@@ -1,2 +1,3 @@
-print("hello " * 3)
+a=raw_input("")
+print(a * 3)
 
