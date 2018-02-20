@@ -1,4 +1,3 @@
-a=raw_input("")
-n=int(input("")
-print(a * n)
-
+N = int(raw_input())
+for i in range (N):
+  print "hello"
